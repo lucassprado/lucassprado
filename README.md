@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Analista de Qualidade de software, e também como tester de software.
-- 🌱 Estou estudando desenvolvimento front-end com ReactJS e NextJS.
+- 🌱 Atualmente estudando ReactJS e NextJS.
 
 ##
 
