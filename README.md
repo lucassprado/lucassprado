@@ -1,8 +1,8 @@
-### Olá eu sou o Lucas 👋
+### Hi dear 👋, I'm Lucas 
 
 
-- 🔭 Atualmente trabalho como Analista de Qualidade de software, e também como tester de software.
-- 🌱 Atualmente estudando ReactJS e NextJS.
+- 🔭 I currently work as a Software Quality Assurance, and also as a software tester.
+- 🌱 Currently studying ReactJS and NextJS.
 
 ##
 
