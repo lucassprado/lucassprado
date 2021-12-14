@@ -1,8 +1,8 @@
 ### Hi dear 👋, I'm Lucas 
 
 
-- 🔭 I currently work as a Software Quality Assurance, and also as a software tester.
-- 🌱 Currently studying ReactJS and NextJS.
+- 🔭 I currently work as Full Stack Web Developer.
+- 🌱 Currently studying NodeJS.
 
 ##
 
