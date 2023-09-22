@@ -2,7 +2,7 @@
 
 
 - 🔭 I currently work as Full Stack Web Developer.
-- 🌱 Currently studying NodeJS and React.
+- 🌱 Currently studying Next.Js.
 
 ##
 
